@@ -1,0 +1,2 @@
+Cone	1
+Other	1
